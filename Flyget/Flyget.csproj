@@ -15,7 +15,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\FlygetAdmin\Controllers\" />
     <Folder Include="Areas\FlygetAdmin\Data\" />
     <Folder Include="Areas\FlygetAdmin\Models\" />
     <Folder Include="Areas\FlygetAdmin\Views\" />
