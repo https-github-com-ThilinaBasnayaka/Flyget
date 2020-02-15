@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
+    <UserSecretsId>6909349f-b06e-4e03-be47-dd5922cda7b0</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
@@ -18,6 +19,63 @@
     <Folder Include="Areas\FlygetAdmin\Data\" />
     <Folder Include="Areas\FlygetAdmin\Models\" />
     <Folder Include="Areas\FlygetAdmin\Views\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\common\bootstrap.min.css" />
+    <None Include="wwwroot\css\font-awesome.min.css" />
+    <None Include="wwwroot\css\common\nouislider.min.css" />
+    <None Include="wwwroot\css\common\slick-theme.css" />
+    <None Include="wwwroot\css\common\slick.css" />
+    <None Include="wwwroot\css\common\style.css" />
+    <None Include="wwwroot\fonts\fontawesome-webfont.eot" />
+    <None Include="wwwroot\fonts\fontawesome-webfont.svg" />
+    <None Include="wwwroot\fonts\fontawesome-webfont.ttf" />
+    <None Include="wwwroot\fonts\fontawesome-webfont.woff" />
+    <None Include="wwwroot\fonts\fontawesome-webfont.woff2" />
+    <None Include="wwwroot\fonts\FontAwesome.otf" />
+    <None Include="wwwroot\fonts\slick.eot" />
+    <None Include="wwwroot\fonts\slick.svg" />
+    <None Include="wwwroot\fonts\slick.ttf" />
+    <None Include="wwwroot\fonts\slick.woff" />
+    <None Include="wwwroot\images\banner01.jpg" />
+    <None Include="wwwroot\images\banner02.jpg" />
+    <None Include="wwwroot\images\banner03.jpg" />
+    <None Include="wwwroot\images\banner04.jpg" />
+    <None Include="wwwroot\images\banner05.jpg" />
+    <None Include="wwwroot\images\banner06.jpg" />
+    <None Include="wwwroot\images\banner07.jpg" />
+    <None Include="wwwroot\images\banner08.jpg" />
+    <None Include="wwwroot\images\banner09.jpg" />
+    <None Include="wwwroot\images\banner10.jpg" />
+    <None Include="wwwroot\images\banner11.jpg" />
+    <None Include="wwwroot\images\banner12.jpg" />
+    <None Include="wwwroot\images\banner13.jpg" />
+    <None Include="wwwroot\images\banner14.jpg" />
+    <None Include="wwwroot\images\banner15.jpg" />
+    <None Include="wwwroot\images\logo.png" />
+    <None Include="wwwroot\images\main-product01.jpg" />
+    <None Include="wwwroot\images\main-product02.jpg" />
+    <None Include="wwwroot\images\main-product03.jpg" />
+    <None Include="wwwroot\images\main-product04.jpg" />
+    <None Include="wwwroot\images\product01.jpg" />
+    <None Include="wwwroot\images\product02.jpg" />
+    <None Include="wwwroot\images\product03.jpg" />
+    <None Include="wwwroot\images\product04.jpg" />
+    <None Include="wwwroot\images\product05.jpg" />
+    <None Include="wwwroot\images\product06.jpg" />
+    <None Include="wwwroot\images\product07.jpg" />
+    <None Include="wwwroot\images\product08.jpg" />
+    <None Include="wwwroot\images\thumb-product01.jpg" />
+    <None Include="wwwroot\images\thumb-product02.jpg" />
+    <None Include="wwwroot\images\thumb-product03.jpg" />
+    <None Include="wwwroot\images\thumb-product04.jpg" />
+    <None Include="wwwroot\js\common\bootstrap.min.js" />
+    <None Include="wwwroot\js\common\jquery.min.js" />
+    <None Include="wwwroot\js\common\jquery.zoom.min.js" />
+    <None Include="wwwroot\js\common\main.js" />
+    <None Include="wwwroot\js\common\nouislider.min.js" />
+    <None Include="wwwroot\js\common\slick.min.js" />
   </ItemGroup>
 
 </Project>
